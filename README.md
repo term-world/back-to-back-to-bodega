@@ -9,7 +9,7 @@
 
 **Reported by `Official Mayor-Endorsed News` on `31 October 2022`**
 
-The only good `term-world` citizen is one who makes and consumes, makes and consumes forever. Riding an influx of quarters from neighborhood bodega games, slower sales in store goods have caused neighborhood economies to level off. Fortunately, the beast of capitalism always responds to more food and, as the Mayor commented during his recent direct-to-O.M.E.N "must run" dispatch: "that means _make stuff."
+The only good `term-world` citizen is one who makes and consumes, makes and consumes forever. Riding an influx of quarters from neighborhood bodega games, slower sales in store goods have caused neighborhood economies to level off. Fortunately, the beast of capitalism always responds to more food and, as the Mayor commented during his recent direct-to-O.M.E.N "must run" dispatch: "that means _make stuff_."
 
 Neighborhoods all over `term-world` are expected to rally to the cause: can they create consumer goods to capture the most currency possible? While only time will tell, the variety of bodega departments is promising. During an interview scheduled with a citizen taken from the Mayor's approved interview list, one `term-world` citizen confessed, "I like stuff."
 
