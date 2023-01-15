@@ -1,13 +1,13 @@
 
 | Date              |          |
 |:------------------|:---------|
-| 31 October 2022 | Assigned |
-| 6 November 2022    | Due      |
+| TODO | Assigned |
+| ODO   | Due      |
 | Status            | See original `bodega` repository |
 
 # BACK TO BUSINESS: "ENOUGH FUN AND GAMES," GRUMBLES MAYOR, "GO MAKE GOODS, GOODS, GOODS!"
 
-**Reported by `Official Mayor-Endorsed News` on `31 October 2022`**
+**Reported by `Official Mayor-Endorsed News` on `TODO`**
 
 The only good `term-world` citizen is one who makes and consumes, makes and consumes forever. Riding an influx of quarters from neighborhood bodega games, slower sales in store goods have caused neighborhood economies to level off. Fortunately, the beast of capitalism always responds to more food and, as the Mayor commented during his recent direct-to-O.M.E.N "must run" dispatch: "that means _make stuff_."
 
@@ -37,9 +37,13 @@ To achieve this, we need to:
 
 _If_ all of this is done correctly, you should be able to "pick up" these items _and_ see their catalog prices printed in the _new, improved_ readout of `Counter.py`!
 
-### Supporting media
+## Supporting media
 
 [![YouTube thumbnail](http://img.youtube.com/vi/cJAXqu65W2s/hqdefault.jpg)](https://youtube.com/playlist?list=PLJvBsjwXNdlF99gvu4u3TIqBVk87xYirA)
+
+### Previous Learning Objectives
+
+If you wish to review previous learning objectives from our assignments, you can visit the [`Syllabus`](https://chompe.rs/100-syllabus) for helpful information. However, it's also important to make an effort to retain what we have covered thus far as we progress through the course sections of the Readme might be taken out.
 
 ## Completing `bodega` content
 
@@ -74,9 +78,18 @@ The items in your `bodega` departments are _consumable_, meaning tha they are us
 
 Here are some suggestions for improvements you can use:
 
-|Improvement Suggestions |Description        |Example(s)         |
-|:--------------------|:------------------|:----------|
-|                     |                   |           |
+|Improvement Suggestions |Description        |
+|:--------------------|:------------------|
+|Classes/Methods|	Add additional functionality to the use() function of bodega goods|
+|Conditional Logic|	Shopping guide for department of bodega; help shoppers choose what to buy|
+|Dictionaries|	Add bodega inventory to Counter; track how many of each good is in stock   |   
+|||
+|||
+|||
+|||
+|||
+|||
+|||
 
 **Make sure to link your issue with the pull request you used to make your actually improvement.**
 
